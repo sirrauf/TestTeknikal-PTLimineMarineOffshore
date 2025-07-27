@@ -1,6 +1,9 @@
 # Test Teknikal PT Limine Marine Offshore
 Test Teknikal PT Limine Marine Offshore
 
+![SS Tamoilan 1](https://github.com/sirrauf/TestTeknikal-PTLimineMarineOffshore/blob/projects/SS-tampilan/SS.png?raw=true)
+![SS Tamoilan 2](https://github.com/sirrauf/TestTeknikal-PTLimineMarineOffshore/blob/projects/SS-tampilan/SS2.png?raw=true)
+
 [Branch Project](https://github.com/sirrauf/TestTeknikal-PTLimineMarineOffshore/tree/projects)
 
 # Mohon setting .Env untuk merubah port,username,dan password database
