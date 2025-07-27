@@ -1,6 +1,11 @@
-// nuxt.config.ts
+// Nuxt 3 config
 export default defineNuxtConfig({
-  devtools: false, // ⛔ Nonaktifkan Nuxt DevTools
+  devtools: { enabled: false },
   css: [],
-  modules: []
+  modules: [],
+  runtimeConfig: {
+    public: {
+      apiBase: 'http://localhost:3001/api'
+    }
+  }
 })

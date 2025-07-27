@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/NFI/Downloads/Punya%20Rauf/Test%20Teknikal%20PT%20Limine%20Marine%20Offshore/frontend/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
